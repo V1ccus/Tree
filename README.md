@@ -121,7 +121,6 @@
 >• Find Min dan Find Max : Mencari nilai terkecil dan terbesar pada Tree.
 >
 >• Child : Mengetahui anak dari sebuah node (jika punya).
->
 
 `| Language | ID |`
 ```
