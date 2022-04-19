@@ -71,7 +71,6 @@
 >• Degree
 >
 >  Banyaknya child dalam suatu node
->  
 
 **BINARY TREE**
 >Suatu tree dengan syarat bahwa tiap  node hanya boleh memiliki maksimal dua  subtree dan kedua subtree tersebut  harus terpisah.
@@ -90,7 +89,6 @@
 >✓ Skewed Binary Tree
 >
 >  Binary tree yang semua nodenya ( kecuali leaf ) hanya memiliki satu anak
->  
 
 **NODE pada BINARY TREE**
 >Jumlah maksimum node pada setiap tingkat adalah 2n, node pada binary tree maksimum berjumlah 2n-1
